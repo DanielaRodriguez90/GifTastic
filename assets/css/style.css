@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: white;
+    font-size: 72px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+button,div,form,input {
+    margin: 10px; 
+    font-size: 16px;
+ }
+
+button:hover{
+    background-color: #4CAF50; 
+    color: white;
+}
+
+body {
+    background-color: grey;
+    text-align: center;
+}
+
